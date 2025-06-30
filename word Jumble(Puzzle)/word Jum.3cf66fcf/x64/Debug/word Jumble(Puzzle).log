@@ -1,0 +1,3 @@
+﻿  word jumble(puzzle).cpp
+C:\Users\DELL\source\repos\word Jumble(Puzzle)\word jumble(puzzle).cpp(26,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  word Jumble(Puzzle).vcxproj -> C:\Users\DELL\source\repos\word Jumble(Puzzle)\x64\Debug\word Jumble(Puzzle).exe
